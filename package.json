@@ -1,7 +1,7 @@
 {
-  "name": "E-Sence-docs-template",
+  "name": "nextra-docs-template",
   "version": "0.0.1",
-  "description": "E-Sence docs template",
+  "description": "Nextra docs template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/E-Sence-docs-template.git"
+    "url": "git+https://github.com/shuding/nextra-docs-template.git"
   },
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/E-Sence-docs-template/issues"
+    "url": "https://github.com/shuding/nextra-docs-template/issues"
   },
-  "homepage": "https://github.com/shuding/E-Sence-docs-template#readme",
+  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
     "next": "^13.0.6",
-    "E-Sence": "^2.2.19",
-    "E-Sence-theme-docs": "latest",
-    "pnpm": "^7.29.3",
+    "nextra": "^2.2.19",
+    "nextra-theme-docs": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

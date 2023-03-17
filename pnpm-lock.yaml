@@ -3,18 +3,16 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': 18.11.10
   next: ^13.0.6
-  E-Sence: ^2.2.19
-  E-Sence-theme-docs: latest
-  pnpm: ^7.29.3
+  nextra: ^2.2.19
+  nextra-theme-docs: latest
   react: ^18.2.0
   react-dom: ^18.2.0
   typescript: ^4.9.3
 
 dependencies:
   next: 13.0.6_biqbaboplfbrettd7655fr4n2y
-  E-Sence: 2.2.19_6jx7hpii6hgsrmhxgqrmo3277u
-  E-Sence-theme-docs: 2.2.19_xjieybtjyjwyx5puqtvpxmncqm
-  pnpm: 7.29.3
+  nextra: 2.2.19_6jx7hpii6hgsrmhxgqrmo3277u
+  nextra-theme-docs: 2.2.19_xjieybtjyjwyx5puqtvpxmncqm
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
 
@@ -1562,11 +1560,11 @@ packages:
       - babel-plugin-macros
     dev: false
 
-  /E-Sence-theme-docs/2.2.19_xjieybtjyjwyx5puqtvpxmncqm:
+  /nextra-theme-docs/2.2.19_xjieybtjyjwyx5puqtvpxmncqm:
     resolution: {integrity: sha512-+5PcNgHwxwSAmQZlbV2cbjbvxj7CPYnN44OtWNxHQ8L3dzlw6fUyIJtyCUcGbDHpFC3sHmwYgB3OCWH8m4P35Q==}
     peerDependencies:
       next: '>=9.5.3'
-      E-Sence: 2.2.19
+      nextra: 2.2.19
       react: '>=16.13.1'
       react-dom: '>=16.13.1'
     dependencies:
@@ -1581,14 +1579,14 @@ packages:
       next: 13.0.6_biqbaboplfbrettd7655fr4n2y
       next-seo: 5.14.1_6jx7hpii6hgsrmhxgqrmo3277u
       next-themes: 0.2.1_6jx7hpii6hgsrmhxgqrmo3277u
-      E-Sence: 2.2.19_6jx7hpii6hgsrmhxgqrmo3277u
+      nextra: 2.2.19_6jx7hpii6hgsrmhxgqrmo3277u
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       scroll-into-view-if-needed: 3.0.4
       zod: 3.20.2
     dev: false
 
-  /E-Sence/2.2.19_6jx7hpii6hgsrmhxgqrmo3277u:
+  /nextra/2.2.19_6jx7hpii6hgsrmhxgqrmo3277u:
     resolution: {integrity: sha512-QmgbJvT1lfmFCM8n5gfGTA5p8efw20N/oZP9ojBhWhmatq/PwAp7VoSeTan6TT9Yspv6PmnrgpqKhYGzPSkFVw==}
     peerDependencies:
       next: '>=9.5.3'
@@ -1688,12 +1686,6 @@ packages:
 
   /picocolors/1.0.0:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
-    dev: false
-
-  /pnpm/7.29.3:
-    resolution: {integrity: sha512-w4tVG3ZV1txgM2bp9/XMmqSYYO3qdhyMVdU8S0zegVvfB6SxNL+nxRq5t7hhw+yc+GrKegyZuIp9aWPhy6NNMA==}
-    engines: {node: '>=14.6'}
-    hasBin: true
     dev: false
 
   /postcss/8.4.14:
