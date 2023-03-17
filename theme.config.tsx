@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/Astreak-oi/ESence-Docs',
+  docsRepositoryBase: 'https://github.com/Astreak-oi/ESence-Docs/tree/main',
   footer: {
     text: 'Nextra Docs Template',
   },
