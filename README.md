@@ -21,3 +21,8 @@ Then, run `pnpm dev` to start the development server and visit localhost:3000.
 ## License
 
 This project is licensed under the MIT License.
+
+
+
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.

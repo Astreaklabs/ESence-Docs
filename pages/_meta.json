@@ -2,14 +2,17 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "mcu":"MCU",
   "about": {
     "title": "About",
     "type": "page"
   },
+
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/astreak-oi",
+    "href": "https://twitter.com/theskaai",
     "newWindow": true
   }
+  
 }
